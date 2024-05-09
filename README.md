@@ -6,7 +6,7 @@
 <details>
   <summary>### hello there 👋</summary>
 <--
- Hi, My name is Freddie Sherwood, Here is a little bit about me
+ My name is Freddie Sherwood, Here is a little bit about me
 
 - 🔭 I’m currently working on a Data Technician course with Just IT
 - I moved from working in the warehouse sector for 3 years from starting in September 2023 before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading -->
   
 <--
-Hi, My name is Freddie Sherwood, Here is a little bit about me
+My name is Freddie Sherwood, Here is a little bit about me
 
 - 🔭 I’m currently working on a Data Technician course with Just IT
 - I moved from working in the warehouse sector for 3 years from starting in September 2023 before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
