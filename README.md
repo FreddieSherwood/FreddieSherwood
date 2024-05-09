@@ -16,7 +16,7 @@
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enojoying art, my favourite kind of music is slow jazz, I also enjoy reading -->
-  This is where you can include additional information or content that you want to hide in the dropdown.
+  
 
 Hi, My name is Freddie Sherwood, Here is a little bit about me
 
