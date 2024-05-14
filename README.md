@@ -25,7 +25,7 @@ I’ve worked various jobs in the warehouse sector building up teamwork and comm
 
 Fun fact about me, I really enjoy Design and problem solving with report building with the presentation of Data as well as Art and Music. 
 
-<details> -->
+
 
 
 
