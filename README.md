@@ -14,7 +14,6 @@ My name is Freddie Sherwood, Here is a little bit about me
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
-<details> 
 
  ### Here is a detailed summary of my journey before the data course with Just IT
 
@@ -26,7 +25,7 @@ I’ve worked various jobs in the warehouse sector building up teamwork and comm
 
 Fun fact about me, I really enjoy Design and problem solving with report building with the presentation of Data as well as Art and Music. 
 
-
+<details> -->
 
 
 
