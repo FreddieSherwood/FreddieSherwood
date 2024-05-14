@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 <!--
-**FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <details>
-  <summary>### hello there 👋</summary> -->
- ### About Me
+<summary>### hello there 👋</summary> 
+### About Me
+**FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  My name is Freddie Sherwood, Here is a little bit about me
 
 - 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
@@ -16,7 +15,7 @@
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
-</details> -->
+<details> -->
 
 ## Here is a detailed summary of my journey before the data course with Just IT
 
