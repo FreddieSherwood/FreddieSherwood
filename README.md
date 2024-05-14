@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 <!--
-<summary>### hello there 👋</summary> 
-<details> -->
-### About Me
-<!--**FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- My name is Freddie Sherwood, Here is a little bit about me
+**FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<
+summary>### hello there 👋</summary>
+<details>  -->
 
+
+ My name is Freddie Sherwood, Here is a little bit about me
+### About Me
 - 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
 - I moved from working in the warehouse sector for 3 years starting in September 2021 to  October 2023 when I last worked in a warehouse, before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
 - 🌱 I’ve now learned Data visualization methods and platforms as well as coding languages such as Python, SQL and R, I have also learned to use the platforms for visualization such as Excel, Power BI and Tableau aswell as Azure AZ-900 and DP-900 cloud tasks, Azure cloud based was something I wasn't familiar with but have found it to be quite useful and easy to use
