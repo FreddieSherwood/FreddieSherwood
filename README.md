@@ -18,7 +18,7 @@ My name is Freddie Sherwood, Here is a little bit about me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading -->
   
-<--
+<-- ## About Me
 My name is Freddie Sherwood, Here is a little bit about me
 
 - 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
@@ -31,7 +31,7 @@ My name is Freddie Sherwood, Here is a little bit about me
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
 
 
-**Here is a detailed summary of my journey before the data course with Just IT
+##Here is a detailed summary of my journey before the data course with Just IT
 
 My name is Freddie Sherwood, and I am from Derby, in my secondary school years I took a mock GCSE exam in Computer science/It exam, I received a grade 5 on the written and the assessment and code, for my GCSE’s I received a Grade 4 in Maths and English(language) a grade 5 in Design and Science, I also received  a grade 4 in Music and Art, I  didn’t decide to progress further at that time but now I find myself with an interest in It specifically Data Tech. 
 
