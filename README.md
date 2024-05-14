@@ -24,7 +24,22 @@ I have a passion for the Data Analyst role as I have an interest in working with
 I’ve worked various jobs in the warehouse sector building up teamwork and communication skills, I’ve decided to move into Data with interest of securing a job as I’ve always liked solving problems, improving efficiency in day-to-day work as well as adaptability which link well with the role of a Data Analyst with the soft skills I already have such as pattern recognition, innovative skills and critical thinking, I have more of my skills listed on my cv, I’ve decided to join a Data Technician bootcamp to help me develop my hard skills within the world of Data in hand-to-hand management with Data and  the processes of edifying, altering and presenting Data,  
 
 Fun fact about me, I really enjoy Design and problem solving with report building with the presentation of Data as well as Art and Music. 
+### Recommendations
 
+Ali Kanji, Ali Kanji
+· 1stFirst degree connection
+Power BI Certified Expert | CIMA Advanced Diploma | Curriculum Development | Azure Certified | Python & R Programmer | Leadership | Data Visualisation Specialist | Experienced Business Analysis & Digital AdoptionPower BI Certified Expert | CIMA Advanced Diploma | Curriculum Development | Azure Certified | Python & R Programmer | Leadership | Data Visualisation Specialist | Experienced Business Analysis & Digital Adoption
+, Ali was Freddie’s teacher
+
+"Freddie Sherwood was a standout student in the Introduction to Data Analytics course. His mastery of advanced Excel techniques and his ability to create compelling dashboards in PowerBI and Tableau were particularly impressive. Freddie’s skills in database design and querying with Access, as well as his programming abilities in Python, Pandas, R, and MySQL, were outstanding.
+
+Freddie approached every project with dedication and creativity. He performed a comprehensive analysis of flight delays using R and Pandas and offered detailed insights into sales data through SQL and Tableau. His ability to use PowerBI and Excel to visualise global economic data highlighted his analytical talents.
+
+His active involvement in Azure and Azure Data Fundamentals labs demonstrated his commitment to mastering new tools and technologies. Freddie’s exploratory data analysis (EDA) projects using Python, Pandas, and R were detailed and insightful, showcasing his strong analytical capabilities.
+
+The projects Freddie completed, showcased on his website and GitHub, reflect his ability to apply theoretical knowledge to practical situations effectively. His knack for communicating complex data insights through clear and engaging visual stories sets him apart in the data analytics field.
+
+In summary, Freddie Sherwood possesses a unique combination of technical expertise, practical experience, and a passion for data analytics. I am confident he will excel in any data-centric role and make significant contributions to any team he joins".
 
 
 
