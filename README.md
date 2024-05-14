@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--
-<details>
-<summary>### hello there 👋</summary> 
+<details><summary>### hello there 👋</summary> 
 ### About Me
 **FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  My name is Freddie Sherwood, Here is a little bit about me
