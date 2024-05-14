@@ -4,9 +4,7 @@
 **FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<
 summary>### hello there 👋</summary>
 <details>  -->
-
-
- My name is Freddie Sherwood, Here is a little bit about me
+My name is Freddie Sherwood, Here is a little bit about me
 ### About Me
 - 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
 - I moved from working in the warehouse sector for 3 years starting in September 2021 to  October 2023 when I last worked in a warehouse, before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
@@ -18,7 +16,7 @@ summary>### hello there 👋</summary>
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
 <details> -->
 
-## Here is a detailed summary of my journey before the data course with Just IT
+ ### Here is a detailed summary of my journey before the data course with Just IT
 
 My name is Freddie Sherwood, and I am from Derby, in my secondary school years I took a mock GCSE exam in Computer science/It exam, I received a grade 5 on the written and the assessment and code, for my GCSE’s I received a Grade 4 in Maths and English(language) a grade 5 in Design and Science, I also received  a grade 4 in Music and Art, I  didn’t decide to progress further at that time but now I find myself with an interest in It specifically Data Tech. 
 
