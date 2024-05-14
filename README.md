@@ -28,6 +28,6 @@ My name is Freddie Sherwood, Here is a little bit about me
 - 🤔 I’m looking for help with getting into a role as Data Analyst as I'm aspiring to move into a Data oriented role making dashboards and cleaning data sets with tools like Power Query, Pivot Tables and formatting tools in Tableau 
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
+- ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading -->
 
 </details>-->
