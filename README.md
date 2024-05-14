@@ -13,7 +13,7 @@ My name is Freddie Sherwood, Here is a little bit about me;
 - 🤔 I’m looking for help with getting into a role as Data Analyst as I'm aspiring to move into a Data oriented role making dashboards and cleaning data sets with tools like Power Query, Pivot Tables and formatting tools in Tableau with use of coding languages like SQL and Python also making use of the cloud based service of Azure and all it's functions
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
+- ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading and I really enjoy Design and problem solving with report building with the presentation of Data.
 
  ### Here is a detailed summary of my journey before the data course with Just IT
 
