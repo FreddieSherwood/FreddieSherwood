@@ -30,4 +30,18 @@ My name is Freddie Sherwood, Here is a little bit about me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
 
+
+Here is a detailed summary of my journey before the data course with Just IT - 
+My name is Freddie Sherwood, and I am from Derby, in my secondary school years I took a mock GCSE exam in Computer science/It exam, I received a grade 5 on the written and the assessment and code, for my GCSE’s I received a Grade 4 in Maths and English(language) a grade 5 in Design and Science, I also received  a grade 4 in Music and Art, I  didn’t decide to progress further at that time but now I find myself with an interest in It specifically Data Tech. 
+
+I have a passion for the Data Analyst role as I have an interest in working with Data as I really enjoy problem solving and improving efficiency in scenarios as well as extracting Data from sources and compiling it into interactive reports for analysis, I’ve found myself applied for the Data Analyst Course with Just IT as it had caught my attention and has helped me get further into the desired area of work. 
+
+I’ve worked various jobs in the warehouse sector building up teamwork and communication skills, I’ve decided to move into Data with interest of securing a job as I’ve always liked solving problems, improving efficiency in day-to-day work as well as adaptability which link well with the role of a Data Analyst with the soft skills I already have such as pattern recognition, innovative skills and critical thinking, I have more of my skills listed on my cv, I’ve decided to join a Data Technician bootcamp to help me develop my hard skills within the world of Data in hand-to-hand management with Data and  the processes of edifying, altering and presenting Data,  
+
+Fun fact about me, I really enjoy Design and problem solving with report building with the presentation of Data as well as Art and Music. 
+
+
+
+
+
 </details>-->
