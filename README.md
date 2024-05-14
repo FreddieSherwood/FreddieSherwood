@@ -9,9 +9,9 @@
 
 My name is Freddie Sherwood, Here is a little bit about me
 
-- 🔭 I’m currently working on a Data Technician course with Just IT
+- 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
 - I moved from working in the warehouse sector for 3 years from starting in September 2023 before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
-- 🌱 I’ve now currently learned Data visualization methods and platforms as well as coding languages such as Python, SQL and R, I have also learned to use the platforms for visualization such as Excel, Power BI and Tableau
+- 🌱 I’ve now learned Data visualization methods and platforms as well as coding languages such as Python, SQL and R, I have also learned to use the platforms for visualization such as Excel, Power BI and Tableau
 - 👯 I’m looking to collaborate on big Data projects and anything to help improve the world and it's sustainability by accessing the past points of Data and forecasting how to make better improvements using the visualization tools and methods i have aqquired using scripts to extract extrapolate and clean data to then use for actionable improvement
 - 🤔 I’m looking for help with getting into a role as Data Analyst as I'm aspiring to move into a Data oriented role making dashboards and cleaning data sets with tools like Power Query, Pivot Tables and formatting tools in Tableau 
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
@@ -21,11 +21,11 @@ My name is Freddie Sherwood, Here is a little bit about me
 <--
 My name is Freddie Sherwood, Here is a little bit about me
 
-- 🔭 I’m currently working on a Data Technician course with Just IT
+- 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
 - I moved from working in the warehouse sector for 3 years starting in September 2021 to  October 2023 when I last worked in a warehouse, before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
-- 🌱 I’m now currently learning Data visualization methods and platforms as well as coding languages such as Python, SQL and R, I have been learning to use the platforms for visualization such as Excel, Power BI and Tableau
+- 🌱 I’ve now learned Data visualization methods and platforms as well as coding languages such as Python, SQL and R, I have also learned to use the platforms for visualization such as Excel, Power BI and Tableau aswell as Azure AZ-900 and DP-900 cloud tasks, Azure cloud based was something I wasn't familiar with but have found it to be quite useful and easy to use
 - 👯 I’m looking to collaborate on big Data projects and anything to help improve the world and it's sustainability by accessing the past points of Data and forecasting how to make better improvements using the visualization tools and methods i have aqquired using scripts to extract extrapolate and clean data to then use for actionable improvement
-- 🤔 I’m looking for help with getting into a role as Data Analyst as I'm aspiring to move into a Data oriented role making dashboards and cleaning data sets with tools like Power Query, Pivot Tables and formatting tools in Tableau 
+- 🤔 I’m looking for help with getting into a role as Data Analyst as I'm aspiring to move into a Data oriented role making dashboards and cleaning data sets with tools like Power Query, Pivot Tables and formatting tools in Tableau with use of coding languages like SQL and Python also making use of the cloud based service of Azure and all it's functions
 - 📫 How to reach me: you can reach me on this email - fsherwood07@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: a fun fact about me is that I was a grade 4 drummer during my years of secondary school as well as enjoying art, my favourite kind of music is slow jazz, I also enjoy reading 
