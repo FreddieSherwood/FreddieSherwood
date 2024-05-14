@@ -4,7 +4,7 @@
 **FreddieSherwood/FreddieSherwood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<
 summary>### hello there 👋</summary>
 <details>  -->
-My name is Freddie Sherwood, Here is a little bit about me
+My name is Freddie Sherwood, Here is a little bit about me;
 ### About Me
 - 🔭 I’ve completed a Data Technician course with Just IT, and am now looking for work as a Data Analyst
 - I moved from working in the warehouse sector for 3 years starting in September 2021 to  October 2023 when I last worked in a warehouse, before finding out about the data course early january 2024 with then my enrolement beginning on the 12th of february
